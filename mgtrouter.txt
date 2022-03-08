@@ -22,7 +22,7 @@ aaa new-model
 !
 !
 aaa group server radius AB_RAD
- server 192.168.0.31 auth-port 1812 acct-port 1813
+ server 192.168.0.32 auth-port 1812 acct-port 1813
  server name BACKUP
  ip radius source-interface GigabitEthernet0/1.159
 !
