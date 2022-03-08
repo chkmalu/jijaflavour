@@ -8,7 +8,7 @@ service timestamps debug datetime msec
 service timestamps log datetime msec localtime
 service password-encryption
 !
-hostname ABNOSHODI
+hostname ABNOKEARIN
 !
 boot-start-marker
 boot system flash:/c2900-universalk9-mz.SPA.154-3.M3.bin
