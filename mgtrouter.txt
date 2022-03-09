@@ -8,11 +8,7 @@ service timestamps debug datetime msec
 service timestamps log datetime msec localtime
 service password-encryption
 !
-<<<<<<< HEAD
-hostname ABNOKEARIN
-=======
 hostname ONITSHA
->>>>>>> 8860a62e838890c04b7b7a9b1e07e5bfedbc4828
 !
 boot-start-marker
 boot system flash:/c2900-universalk9-mz.SPA.154-3.M3.bin
